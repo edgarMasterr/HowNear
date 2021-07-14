@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.iwantthisnear.tool","l":"FileHandle"},{"p":"com.iwantthisnear.tool","l":"FormCommands"},{"p":"com.iwantthisnear.tool","l":"LetsGetTheNearest"},{"p":"com.iwantthisnear.tool","l":"NearVariables"}]
